@@ -85,9 +85,13 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "py_OleVod":{
+    "py_OleVod": {
       "api": "https://py.doube.eu.org/spider?site=OleVod",
       "name": "🍉欧乐影院(T4)"
+    },
+    "py_Dm84": {
+      "name": "🍋‍🟩动漫巴士(T4)"
+      "api": "https://py.doube.eu.org/spider?site=Dm84",
     }
     
   }
